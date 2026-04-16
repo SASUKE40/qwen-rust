@@ -6,3 +6,4 @@
 .cursor-server
 rust_stack_data/
 out/
+checkpoints/
