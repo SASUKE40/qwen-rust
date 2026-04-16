@@ -1,0 +1,6 @@
+.lightning_studio/
+.idea/
+.vscode/
+.windsurf-server
+.vscode-server
+.cursor-server
